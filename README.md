@@ -7,7 +7,7 @@ The project is written in JAVA language.
 
 ## What it is MMU
 Memory Management Unit - This unit functions as an integral part of the processor and is responsible for managing memory on the computer.
-Memory management on the computer is done by the Paging method - a method that allows the operating system to transfer memory segments 
+Memory management on the computer is done by the Paging method - a method that allows the operating system to transfer memory segments
 between the main memory (RAM) and the secondary (Hard Disk) and vice versa.
 The guideline for this memory management method is the dedicated algorithms that the system uses to determine which page to replace.
 
