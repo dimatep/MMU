@@ -11,7 +11,7 @@ Memory management on the computer is done by the Paging method - a method that a
 between the main memory (RAM) and the secondary (Hard Disk) and vice versa.
 The guideline for this memory management method is the dedicated algorithms that the system uses to determine which page to replace.
 
-## Paging Algorithms that has been used
+## Paging algorithms that has been used
 There are several different paging algorithms where the pages are mapped to memory, we were asked to implement:
 * LRU - Least Recently Used.
 * NRU - NOT Recently Used.
