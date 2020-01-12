@@ -31,7 +31,7 @@ The system is structured to hold pages in memory identified by ID.
 The system transfers memory clips between the secondary memory and the head according to user requests.
 With the help of multi-threading, the system is able to receive requests from several customers at the same time.
 
-Creators : Dima Teplaikov and Michael Rozentsveig
+© Creators : Dima Teplaikov and Michael Rozentsveig
 
 
 
