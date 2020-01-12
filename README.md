@@ -32,6 +32,7 @@ The system transfers memory clips between the secondary memory and the head acco
 With the help of multi-threading, the system is able to receive requests from several customers at the same time.
 
 A video showing how the project works can be found at the link below (Hebrew language)
+
 YouTube : https://www.youtube.com/watch?v=ORghKozoJnE 
 
 © Creators : Dima Teplaikov and Michael Rozentsveig
