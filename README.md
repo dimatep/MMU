@@ -24,6 +24,7 @@ Requests such as data access for the "browse" operation, update and delete infor
 This system is built on OOP principles and has been used in common Design Pattern:
 * Observe Pattern.
 * Strategy Pattern.
+
 Also, the GUI is used with the help of SWING and working with JSON files.
 
 The system is structured to hold pages in memory identified by ID.
