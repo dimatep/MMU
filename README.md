@@ -13,17 +13,17 @@ The guideline for this memory management method is the dedicated algorithms that
 
 ## Paging Algorithms that has been used
 There are several different paging algorithms where the pages are mapped to memory, we were asked to implement:
-*LRU - Least Recently Used
-*NRU - NOT Recently Used
-*Random
+* LRU - Least Recently Used.
+* NRU - NOT Recently Used.
+* Random.
 
 ## Application and system architecture
 In the project we created a client-server interface where we manage to send requests from the client using the GUI.
 Requests such as data access for the "browse" operation, update and delete information.
 
 This system is built on OOP principles and has been used in common Design Pattern:
-*Observe Pattern
-*Strategy Pattern
+* Observe Pattern.
+* Strategy Pattern.
 Also, the GUI is used with the help of SWING and working with JSON files.
 
 The system is structured to hold pages in memory identified by ID.
