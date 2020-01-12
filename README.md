@@ -1,4 +1,4 @@
-# MMU Projecy
+# MMU Project
 Memory Management Unit(MMU) in Java language.
  
  ## The Purpose of the project
